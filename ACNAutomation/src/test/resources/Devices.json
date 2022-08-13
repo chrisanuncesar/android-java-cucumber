@@ -1,0 +1,18 @@
+{
+  "1": {
+  	"platform_name": "Android",
+    "platform_version": "11.0",
+    "automation_name": "UIAutomator2",
+    "device_name": "Pixel 2",
+    "device_udid": "emulator-5554",
+    "app_loc": "/Users/cesarchrmac/Documents/EclipsePlayGround/automation/app/app-release.apk"
+  },
+  "2": {
+  	"platform_name": "iOS",
+    "platform_version": "14.0",
+    "automation_name": "XCUITest",
+    "device_name": "iPhone 7",
+    "device_udid": "F2P6R16519001046",
+    "app_loc": "/Users/cesarchrmac/Documents/EclipsePlayGround/automation/app/app-release.apk"
+  }
+}

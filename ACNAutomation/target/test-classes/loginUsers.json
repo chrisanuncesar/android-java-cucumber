@@ -1,0 +1,14 @@
+{
+  "validUser": {
+    "username": "MobileTesting4",
+    "password": "!Testmobile1"
+  },
+  "userWithNoCards": {
+    "username": "MobileTesting1",
+    "password": "!Testmobile1"
+  },
+  "userWithNoVehicles": {
+    "username": "MobileTesting4",
+    "password": "!Testmobile1"
+  }
+}
